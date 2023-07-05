@@ -2,3 +2,8 @@ h1{
     color: blueviolet;
     background-color: red;
 }
+div{
+    background-color: aqua;
+    margin: 10px;
+    border: 30px solid yellow;
+}
